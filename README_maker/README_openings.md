@@ -85,7 +85,7 @@ bottom of the page on how to contribute!
 
 (Image by Frédéric Havet. Originally published at: D Pallez,
 "**Optimisation coûteuse: où en sommes-nous et que faire
-maintenant?*", *1024 B**ulletin de la Société informatique de France
+maintenant?**", 1024 Bulletin de la Société informatique de France
 Nº27, 2026 [DOI:
 10.48556/SIF.1024.27.31](https://1024.socinfo.fr/2026/06/1024_27_2026_031.html).
 Reproduced with permission.)
