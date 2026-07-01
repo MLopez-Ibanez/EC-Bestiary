@@ -1,7 +1,7 @@
 # Evolutionary Computation Bestiary  
 [![DOI](https://zenodo.org/badge/54759561.svg)](https://zenodo.org/badge/latestdoi/54759561)
 
-Updated 2025-07-06   
+Updated 2026-07-01   
 ***  
 
 > "Till now, madness has been thought a small island in an ocean of
@@ -80,6 +80,16 @@ mindless beasts.
 Finally, if you know a metaphor-based method that is not listed here, or
 if you know of an earlier mention of a listed method, please see the
 bottom of the page on how to contribute!
+
+![Ark of the Bestiary](img/bestiaire-byFH-CCNCND.png)
+
+(Image by Frédéric Havet. Originally published at: D Pallez,
+"**Optimisation coûteuse: où en sommes-nous et que faire
+maintenant?*", *1024 B**ulletin de la Société informatique de France
+Nº27, 2026 [DOI:
+10.48556/SIF.1024.27.31](https://1024.socinfo.fr/2026/06/1024_27_2026_031.html).
+Reproduced with permission.)
+
 
 ------------------------------------------------------------------------
 
